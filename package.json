@@ -1,0 +1,21 @@
+{
+  "name": "notes-node-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "getting",
+    "input",
+    "from",
+    "user"
+  ],
+  "author": "Manav Khorasiya",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "yargs": "^14.0.0"
+  }
+}
