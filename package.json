@@ -15,7 +15,7 @@
   "author": "Manav Khorasiya",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "yargs": "^14.0.0"
   }
 }
